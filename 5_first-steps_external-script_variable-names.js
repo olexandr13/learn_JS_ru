@@ -1,0 +1,1 @@
+var ourPlanet = "Earth", customerName = "Petr";
