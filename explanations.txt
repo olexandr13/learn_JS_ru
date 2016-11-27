@@ -27,3 +27,14 @@ null == "\n0\n" = false // (5)
 (5) При сравнении == с null преобразования не происходит, есть жёсткое правило: null == undefined и только.
 (6) И левая и правая часть == преобразуются к числу 0.
 
+
+//Функциональные выражения
+// Function Declaration
+function sum(a, b) {
+  return a + b;
+}
+
+// Function Expression
+var sum = function(a, b) {
+  return a + b;
+}
