@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="429b0ffa-47f7-458c-afa8-a8e0750b80ae" name="Default" comment="7th commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-data-structures/1-number-1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-data-structures/1-number-1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-data-structures/1-number-2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-data-structures/1-number-3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-data-structures/1-number-4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-data-structures/1-number-5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-data-structures/2-string-1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-data-structures/3-object.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4-data-structures/4-object-for-in.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4-data-structures/4-object-for-in.js" afterPath="$PROJECT_DIR$/4-data-structures/4-object-for-in.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features.txt" afterPath="$PROJECT_DIR$/features.txt" />
     </list>
     <ignored path="JS.iws" />
@@ -36,8 +28,8 @@
       <file leaf-file-name="features.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="110" column="20" selection-start-line="110" selection-start-column="20" selection-end-line="110" selection-end-column="20" />
+            <state relative-caret-position="573">
+              <caret line="168" column="0" selection-start-line="168" selection-start-column="0" selection-end-line="168" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -66,8 +58,8 @@
       <file leaf-file-name="4-object-for-in.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/4-data-structures/4-object-for-in.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="615">
+              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -130,9 +122,10 @@
         <option value="$PROJECT_DIR$/4-data-structures/4-number.js" />
         <option value="$PROJECT_DIR$/4-data-structures/5-number.js" />
         <option value="$PROJECT_DIR$/4-data-structures/1-number-1.html" />
-        <option value="$PROJECT_DIR$/features.txt" />
         <option value="$PROJECT_DIR$/4-data-structures/2-string-1.js" />
         <option value="$PROJECT_DIR$/4-data-structures/3-object.js" />
+        <option value="$PROJECT_DIR$/features.txt" />
+        <option value="$PROJECT_DIR$/4-data-structures/4-object-for-in.js" />
       </list>
     </option>
   </component>
@@ -971,18 +964,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/features.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="110" column="20" selection-start-line="110" selection-start-column="20" selection-end-line="110" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4-data-structures/2-string-1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="168" column="0" selection-start-line="168" selection-start-column="0" selection-end-line="168" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -997,8 +990,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/4-data-structures/4-object-for-in.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="615">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding />
         </state>
       </provider>
