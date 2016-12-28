@@ -53,3 +53,23 @@ function find(arr, value) {
 }
 
 
+function filterRange(arr, a, b) {
+    var i;
+    var newArray = [];
+    for (i = 0; i < arr.length; i++) {
+        if (arr[i] >= a && arr[i] <= b) {
+            newArray.push(arr[i]);
+        }
+    }
+    return newArray;
+}
+
+
+function getMaxSubSum(arr) {
+    var sum;
+    for (var i = 0; i < arr.length; i++) {
+        for (var j = i; j < arr.length; j++) {
+            sum += arr[j];
+        }
+    }
+}
