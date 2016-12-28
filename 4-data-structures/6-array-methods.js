@@ -41,3 +41,32 @@ function removeClass(obj, cls) {
 };
 
 
+function filterRangeInPlace(arr, a, b) {
+    for (var i = 0; i < arr.length; i++) {
+        if (arr[i] < a || arr[i] > b) {
+            arr.splice(i, 1);
+            i--;
+        }
+    }
+};
+
+
+function reverse(arr) {
+    return arr.reverse();
+};
+
+
+function reverse(arr) {
+    var arr2 = [];
+    for (var i = arr.length-1; i >= 0; i--) {
+        arr2.push(arr[i]);
+    }
+    return arr2;
+};
+
+
+var arr = ["HTML", "JavaScript", "CSS"];
+for (var i = 0; i < arr.length; i++) {
+    arr2[i] = arr[i];
+}
+arr2.sort();
