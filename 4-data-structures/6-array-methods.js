@@ -221,16 +221,15 @@ function printReverseList(list) {
 Преимущество рекурсии, с другой стороны – более короткий и, зачастую, более простой код.
 
 
-//Отфильтровать анаграммы
-function aclean(arr) {
-    var arrSorted = [];
+//Оставить уникальные элементы массива
+function unique(arr) {
+    var obj = {};
     for (var i = 0; i < arr.length; i++) {
-        arrSorted.push(arr[i].sort());
+        obj[arr[i]] = true;
     }
-    for (var j = 0; j < arrSorted.length; j++) {
-
-    }
+    return Object.keys(obj);
 }
-function upper(arrElement) {
-    
-}
+var strings = ["кришна", "кришна", "харе", "харе",
+  "харе", "харе", "кришна", "кришна", "8-()"
+];
+console.log( unique(strings) );
